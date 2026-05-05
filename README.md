@@ -12,6 +12,22 @@ This project was built as a beginner-friendly agentic AI system focused on a pra
 
 ---
 
+## Screenshots
+
+### Portfolio Summary with Manager Recommendation
+![Portfolio Summary with Manager Recommendation](assets/portfolio-summary-manager-recommendation.png)
+
+### Portfolio Summary Follow-Up Flow
+![Portfolio Summary Follow-Up Flow](assets/portfolio-summary-follow-up-flow.png)
+
+### High-Risk Items Structured View
+![High-Risk Items Structured View](assets/high-risk-items-structured-view.png)
+
+### Store-Level Planning Summary
+![Store-Level Planning Summary](assets/store-level-planning-summary.png)
+
+---
+
 ## Why this project is agentic
 
 This application is not just a dashboard and not just a chat interface.
