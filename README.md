@@ -2,7 +2,9 @@
 
 An agentic analytics assistant that answers inventory planning questions over forecast outputs using tool-based routing, explainable reasoning, and business-facing recommendations.
 
-This project was built as a beginner-friendly agentic AI system focused on a practical business workflow rather than a generic chatbot. It uses structured forecast data to answer questions such as:
+This project extends my earlier **Demand Forecasting & Replenishment Platform**, which focused on data ingestion, forecasting, replenishment logic, API serving, and dashboarding. The current application builds on those scored forecast outputs and adds an agentic AI layer that can interpret portfolio risk, explain item-level recommendations, summarize store-level planning situations, and guide users through next-step inventory decisions.
+
+It has been built as a beginner-friendly agentic AI system focused on a practical business workflow rather than a generic chatbot. It uses structured forecast data to answer questions such as:
 
 - Which items are highest stockout risk this week?
 - What are the top replenishment priorities?
